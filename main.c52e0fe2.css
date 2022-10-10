@@ -311,7 +311,7 @@ section {
   grid-template-columns: auto auto auto auto;
 }
 
-.card .col {
+.cards .col {
   align-content: baseline;
 }
 
