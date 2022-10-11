@@ -516,12 +516,12 @@ section {
 
 .card .icon {
   font-size: 50px;
-  color: var(--secondary-color);
+  color: cornflowerblue;
 }
 
 .card h3 {
   margin-block: 30px;
-  color: var(--secondary-color);
+  color: cornflowerblue;
 }
 
 .card p {
